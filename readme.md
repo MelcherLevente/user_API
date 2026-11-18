@@ -1,0 +1,1 @@
+1. reteg: projekt vaza: konyvtarak letrehozasa, csomagok letoltese, git-github-gitignore, .env
