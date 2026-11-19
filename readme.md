@@ -1,3 +1,7 @@
 1. reteg: projekt vaza: konyvtarak letrehozasa, csomagok letoltese, git-github-gitignore, .env
 
 2. reteg: adatbazis letrehozasa (xampp), config/index.js db/sequelize.js
+
+3. reteg: model(User model), db:sync, db:seed
+
+4. reteg: repositories + teszt   user.repository meg vmi
