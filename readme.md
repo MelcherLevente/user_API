@@ -7,3 +7,5 @@
 4. reteg: repositories + teszt   user.repository.js + node test parancs
 
 5. reteg: service reteg: utils -> AppError, service -> repo fuggvenyhivasok
+
+6. reteg: controller reteg: service hivasok definialasa, json response
