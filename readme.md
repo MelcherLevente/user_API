@@ -4,4 +4,6 @@
 
 3. reteg: model(User model), db:sync, db:seed
 
-4. reteg: repositories + teszt   user.repository meg vmi
+4. reteg: repositories + teszt   user.repository.js + node test parancs
+
+5. reteg: service reteg: utils -> AppError, service -> repo fuggvenyhivasok
