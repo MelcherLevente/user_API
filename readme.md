@@ -9,3 +9,9 @@
 5. reteg: service reteg: utils -> AppError, service -> repo fuggvenyhivasok
 
 6. reteg: controller reteg: service hivasok definialasa, json response
+
+7. reteg routes, app.js, server.js
+
+8. reteg: hibakezelo mw
+
+9. reteg: auth, author
